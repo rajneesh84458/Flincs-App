@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "318498965868",
+    "project_id": "flincs-f1458",
+    "storage_bucket": "flincs-f1458.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:318498965868:android:7749244a7783cbd2934b49",
+        "android_client_info": {
+          "package_name": "com.flincs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "318498965868-rm8nvi2ojtj15jl7g7st3pjp35n41jhm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAk1rmaxiEcUTeTgS4bAoA3DdE4b6sYAfQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "318498965868-rm8nvi2ojtj15jl7g7st3pjp35n41jhm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
